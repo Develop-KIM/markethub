@@ -1,6 +1,6 @@
 HELP.md
-*.gitattributes
-*.gradlew
+.gitattributes
+.gradlew
 *.yml
 *.properties
 .gradle
