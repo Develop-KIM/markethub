@@ -1,8 +1,12 @@
 HELP.md
 .gitattributes
-.gradlew
+gradlew
 *.yml
 *.properties
+build.gradle
+gradlew.bat
+settings.gradle
+gradle
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
