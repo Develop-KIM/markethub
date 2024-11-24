@@ -10,13 +10,6 @@ HELP.md
 ### Gradle ###
 .gradle/
 build/
-!gradle/wrapper/gradle-wrapper.jar
-
-# Gradle 설정 파일 (포함해야 함)
-!build.gradle
-!settings.gradle
-!gradlew
-!gradlew.bat
 
 ### Docker ###
 docker/.env  # Docker 환경 변수 파일 제외
